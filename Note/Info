@@ -1,0 +1,4 @@
+Sudoku contains the digits that are same as our digits in keyboard. 
+Here I used MNIST handwritten dataset which contains manually written digits, sometimes may fail to predict the digit accurately. For example, 4 may predicted as 9 sometimes.
+There is no dataset available for computer digits.
+When it's is available our projects gains more accuracy with respect to prediction of digits.
