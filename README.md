@@ -1,2 +1,2 @@
 # Automated-Sudoku-Solver
-Solving image containing sudoku puzzle using openCV and Convolution Neural Networks
+Detecting sudoku in the image and solving it using openCV and Convolution Neural Networks
